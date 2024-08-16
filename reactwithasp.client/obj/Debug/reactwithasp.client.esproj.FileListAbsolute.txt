@@ -1,0 +1,2 @@
+C:\Users\dedeh\source\repos\ReactWithASP\reactwithasp.client\obj\Debug\reactwithasp.client.esproj.CoreCompileInputs.cache
+D:\DEDE\KANTOR\79\GAP\,Net\ASPREACT\ReactWithASP\reactwithasp.client\obj\Debug\reactwithasp.client.esproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "deu9bw5Wgf48zmJ3lBGtt+k/y/DALEtIsvI9a+KgXd8=",
+  "Source": "ReactWithASP.Server",
+  "BasePath": "_content/ReactWithASP.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\DEDE\\KANTOR\\79\\GAP\\,Net\\ASPREACT\\ReactWithASP\\reactwithasp.client\\reactwithasp.client.esproj",
+      "Version": 2,
+      "Source": "reactwithasp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
